@@ -13,7 +13,9 @@ Suchitradas / README.md
 ---------------------------------------------------------------------------------
 **🔧 Technologies & Skills**
 💻Programming:C,C++,Python
+<br>
 ⚡ Embedded Systems:ESP32,ESP8266,ARDUINO
+<br>
 🔩PCB Design
 
 --------------------------------------------------------------------------------
