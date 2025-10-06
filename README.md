@@ -9,5 +9,6 @@ Suchitradas / README.md
 📍Passionate about **IoT, Smart System , PCB Design , Embedded System Devlopment**
 <br>
 🌟Exploring **AI_based Embedded Systems**
+
 ---------------------------------------------------------------------------------
 
