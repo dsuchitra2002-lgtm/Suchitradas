@@ -7,4 +7,5 @@ Suchitradas / README.md
 **🎓 Bachlor of science in Information Technology & Management - DRIEMS UNIVERSITY, Tangi**
 
 📍Passionate about **IoT, Smart System , PCB Design , Embedded System Devlopment**
+<br>
 🌟Exploring **AI_based Embedded Systems**
