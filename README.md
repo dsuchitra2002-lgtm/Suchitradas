@@ -1,2 +1,1 @@
-# Suchitradas
-👋 Hi, I'm  Suchitra Das
+👋 Hi, I'm Suchitra Das
