@@ -11,4 +11,16 @@ Suchitradas / README.md
 🌟Exploring **AI_based Embedded Systems**
 
 ---------------------------------------------------------------------------------
+**🔧 Technologies & Skills**
+💻Programming:C,C++,Python
+⚡ Embedded Systems:ESP32,ESP8266,ARDUINO
+🔩PCB Design
+
+--------------------------------------------------------------------------------
+
+**📌FEATURED Projects**
+
+
+
+
 
