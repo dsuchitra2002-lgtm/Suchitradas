@@ -17,7 +17,7 @@ Suchitradas / README.md
 <br>
 ⚡ Embedded Systems:ESP32,ESP8266,ARDUINO
 <br>
-🔩PCB Design
+🔩PCB software
 
 --------------------------------------------------------------------------------
 
