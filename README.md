@@ -1,27 +1,25 @@
 ## 👋 Hi, I'm Suchitra Das  
 
-🚀 **Electronics & IoT Enthusiast** | AI | Embedded Systems | Python Developer  
+🚀 **AI & IoT Enthusiast** | AI | Embedded Systems | Python Developer  
 
-🎓 **Electronics and Communication Engineering (ECE) - Bundelkhand University, Jhansi**  
+🎓 **Bachlor's of Science & Information Technology Management(B.sc ITM)- DRIEMS UNIVERSITY,Tangi**   
 💡 Passionate about **IoT, Artificial Intelligence, and Smart System Design**  
-🌟 Exploring **AI + IoT Projects, Health Monitoring Systems, and Automation**  
+🌟 Exploring **AI + IoT Projects, Fire Alarm System, Implementation Of Smart agriculture for efficient cultivation In Hilly Regions**  
 
 ---
 
 ## 🔧 Technologies & Skills  
 - 💻 Programming: **C, C++, Python, SQL**  
-- ⚡ Embedded Systems: **Arduino, ESP32, ESP32-CAM, Raspberry Pi**  
-- 🔩 IoT & Sensors: **Temperature, Heartbeat, Soil Moisture, Gas Sensors**  
-- ☁️ Cloud & Connectivity: **MQTT, Google Cloud, ThingSpeak**  
-- 🤖 AI & Machine Learning: **Computer Vision, Edge AI, TensorFlow**  
+- ⚡ Embedded Systems: **Arduino, ESP32, ESP8266**  
+- 🔩 IoT & Sensors: **Temperature & Humidity, Soil Moisture, Flame Sensors**  
+  
 
 ---
 
-## 📌 Featured Projects  
-🐾 **[AI + IoT Based Health Monitoring System for Animals](#)**  
-🍴 **[Masala GPT – Smart Kitchen Spice Assistant](#)**  
+## 📌 Featured Projects    
+  
 🔥 **[Automatic Fire Alarm System](#)**  
-🌾 **[Soil Moisture Monitoring with Arduino](#)**  
+🌾 **[Implementation Of Smart Agriculture For efficient cultivation In Hilly Regions](#)**  
 
 ---
 
@@ -33,7 +31,7 @@
 
 ## 🚀 Connect With Me  
 🔗 [LinkedIn](#)  
-🔗 [Google Scholar](#)  
+🔗 [Twitter](#)  
 
 ---
 
