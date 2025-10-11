@@ -30,7 +30,7 @@
 ---
 
 ## 🚀 Connect With Me  
-🔗 [LinkedIn](#)  
+🔗 [www.linkedin.com/in/suchitra-das-7b9a69343](#)  
 🔗 [Twitter](#)  
 
 ---
